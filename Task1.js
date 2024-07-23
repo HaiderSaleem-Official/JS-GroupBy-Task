@@ -16,4 +16,4 @@ const result = array.reduce((acc, currVal) => {
   return acc;
 }, {});
 
-console.log("Output is Given By:"  , result);
+console.log("Output is Given By:", result);
